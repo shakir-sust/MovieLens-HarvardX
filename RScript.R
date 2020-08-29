@@ -12,7 +12,7 @@
 ## Dataset ##
 
 #############################################################
-# Create edx set, validation set, and submission file
+# Create the edx set, validation set, and submission file
 #############################################################
 
 # Note: this process could take a couple of minutes for loading required package: tidyverse and package caret
